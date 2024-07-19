@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="ikon">
+    <file>delete-48.png</file>
+    <file>exit-48.png</file>
+    <file>list-48.png</file>
+    <file>phone-40.png</file>
+    <file>save-40.png</file>
+    <file>update-48.png</file>
+  </qresource>
+</RCC>
